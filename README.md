@@ -1,10 +1,10 @@
-# Business Brain
+# Claudium, the Business Brain
 
-**A guided interview that turns what's in your head into files Claude can actually use.**
+**A guided interview that turns what's in your head into files Claude can actually use and reuse. It forgets less, it hallucinates less, it cheats less because, well, its smarter now.**
 
-Claude starts every conversation knowing nothing about your business. It doesn't know what you sell, how you sound, or what you decided last month. So every chat begins with ten minutes of re-explaining.
+In case you didn't know, Anthropic's Claude model starts every conversation knowing little to nothing about your business. It doesn't know what you sell, how you sound, or what you decided last month. Maybe it has a summary of a summary of a summary of your prior chats if you are organized enough to bucket them into folders. If not, every chat begins with ten minutes of re-explaining to ensure the context is accurate and not diluted by drift.
 
-This is a fix: eight short markdown files that Claude reads before it answers, and a set of interview prompts that get them written. No software, no dependencies, nothing to maintain. About 90 minutes of your time, once.
+This is a fix: eight short markdown files that Claude reads before it answers, and a set of interview prompts that get them written. No software, no dependencies, nothing to maintain. About 90 minutes of your time, once--then it has a place to update to stay fresh and accurate. 
 
 ---
 

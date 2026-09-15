@@ -116,7 +116,7 @@ The kit is written for small businesses in general, which means it fits none of 
 - **Sitting 01 (or 02) reshapes the rest.** It ends by telling you which later sittings need adapting for your kind of work — a service business reframes the offerings sitting around rates and availability rather than stock.
 - **The prompts are yours.** Every file here is plain markdown with no magic in it. Edit the questions, drop the sittings that don't apply, add ones that do.
 
-If you adapt it for a specific trade — a salon, a studio, a contractor, a clinic — that's a useful fork, and a good PR.
+If you adapt it for a specific trade, that's a useful fork, and a good PR. Sharing is caring. 
 
 ---
 
@@ -134,9 +134,9 @@ Please keep the design decisions above intact, especially the "never offer an an
 
 ## Provenance
 
-Built for a real client — a small Brooklyn tea company — and generalised afterwards. The original was pre-filled from months of consulting context, which made it stronger than this version: correcting is easier than composing, and produces better material.
+Original was built for a real client — a small Brooklyn tea company — and then generalised to accommodate other use cases. The original was pre-filled from months of consulting context, which made it stronger than this version because correcting is easier than composing, and produces better material.
 
-That gap is worth naming honestly. If you're using this cold, expect the voice file to be the weakest output, and consider doing that sitting with someone else in the room.
+If you're using this cold, expect the voice file to be the weakest output, and consider doing that sitting with someone else in the room. The more you input, the smarter the brain. 
 
 ---
 
@@ -146,4 +146,4 @@ That gap is worth naming honestly. If you're using this cold, expect the voice f
 
 ## A note on names
 
-This is an independent project. Claude and Anthropic are trademarks of Anthropic, and nothing here is affiliated with or endorsed by them. Worth keeping the repo name and description clear of anything implying otherwise.
+This is an independent project. Claude and Anthropic are trademarks of Anthropic, and nothing here is affiliated with or endorsed by them. Just trying to help. 
